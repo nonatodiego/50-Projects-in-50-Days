@@ -7,9 +7,7 @@
 
 O projeto ainda está em desenvolvimento:
 
-<ol>
-<li><a href=""> Expanding Cards </a></li>
-
-
-</ol>
+|  #  | Projeto                                                                                                                     | Live Demo                                                                         |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 01  | [Expanding Cards](https://github.com/nonatodiego/50-Projects-in-50-Days/tree/master/expanding-cards)                             | [Live Demo](google.com)               |
 
