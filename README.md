@@ -6,7 +6,8 @@
 ### Lista de Projetos
 
 O projeto ainda está em desenvolvimento:
-[x] Dia 01 - Expanding Cards
-[x] Dia 02 - Progress Steps
-[x] Dia 03 - Rotating Navigation 
+- Dia 01 - Expanding Cards
+- Dia 02 - Progress Steps
+- Dia 03 - Rotating Navigation 
+- Dia 04 - Hidden Search Widget
 
