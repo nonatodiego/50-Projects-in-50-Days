@@ -10,4 +10,5 @@ O projeto ainda está em desenvolvimento:
 - Dia 02 - Progress Steps
 - Dia 03 - Rotating Navigation 
 - Dia 04 - Hidden Search Widget
+- Dia 05 - Blurry Loading
 
